@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IMergency.Ver2", "IMergency.Ver2\IMergency.Ver2.csproj", "{5739D45F-697B-4E68-A937-DB770E2A3A61}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sqlite", "..\Out Source\sqlite-net-wp8-master\Sqlite.vcxproj", "{59B35F6C-E062-4F0E-88D8-13F3F82A24F3}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sqlite", "..\Out Source\sqlite-net-wp8\Sqlite.vcxproj", "{59B35F6C-E062-4F0E-88D8-13F3F82A24F3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
